@@ -66,10 +66,7 @@
 
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
-    <a href="https://twitter.com/AnirudhJS07">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/anirudhjs07/">
+    <a href="https://www.linkedin.com/in/gautamakshat/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
