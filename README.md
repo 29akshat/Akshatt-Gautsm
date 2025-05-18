@@ -1,6 +1,6 @@
 # Akshatt-Gautsm
-Hello  World this is my profile
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+Hello  World 
+<h2 align="left">Hi 👋! My name is Akshat Gautam and I'm a Computer Science Engineer , from India </h2>
 
 ###
 
