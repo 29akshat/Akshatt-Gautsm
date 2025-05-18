@@ -30,13 +30,7 @@
 
 <h1 align="center"> ✨ PINNED: </h1>
 <p align="center">
-  <a href="https://github.com/AnirudhJS07/Donatly.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhJS07&repo=Donatly.&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/AnirudhJS07/Mindy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhJS07&repo=Mindy&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-    
+ 
 </p>    
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
